@@ -1,0 +1,2 @@
+# C-
+THIS IS THEORY PART OF C++ BY ME.
